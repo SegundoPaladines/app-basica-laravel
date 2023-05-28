@@ -68,6 +68,12 @@
                 <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="/facultades">Facultades</a>
                 </li>
+                <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/docentes">Nuestros Docentes</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/estudiantes">Estudiantes</a>
+                </li>
             </ul>
         </div>
     </nav>

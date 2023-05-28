@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ControladorUdenar;
+use App\Http\Controllers\ControladorEstudiantes;
+use App\Http\Controllers\ControladorDocentes;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,3 +22,5 @@ Route::get('/facultades/ingenieria', [ControladorUdenar::class, 'mostrarFacing']
 Route::get('/facultades/ingenieria/sistemas', [ControladorUdenar::class, 'mostrarSistemas']);
 Route::get('/facultades/ingenieria/electronica', [ControladorUdenar::class, 'mostrarElec']);
 Route::get('/facultades/ingenieria/civil', [ControladorUdenar::class, 'mostrarCivil']);
+Route::get('/docentes', [ControladorDocentes::class, 'mostrarVistaDocentes']);
+Route::get('/estudiantes', [ControladorEstudiantes::class, 'mostrarVistaEstudiantes']);
