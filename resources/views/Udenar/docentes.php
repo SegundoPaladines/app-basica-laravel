@@ -84,110 +84,85 @@
     <table class="table align-middle mb-0 bg-white">
     <thead class="bg-light">
         <tr>
-        <th>Name</th>
-        <th>Title</th>
-        <th>Status</th>
-        <th>Position</th>
-        <th>Actions</th>
+        <th>Foto</th>
+        <th>Nombres</th>
+        <th>Apellidos</th>
+        <th>Curso</th>
         </tr>
     </thead>
     <tbody>
         <tr>
         <td>
             <div class="d-flex align-items-center">
-            <img
-                src="https://mdbootstrap.com/img/new/avatars/8.jpg"
-                alt=""
-                style="width: 45px; height: 45px"
-                class="rounded-circle"
-                />
-            <div class="ms-3">
-                <p class="fw-bold mb-1">John Doe</p>
-                <p class="text-muted mb-0">john.doe@gmail.com</p>
-            </div>
+                <img
+                    src="https://mdbootstrap.com/img/new/avatars/10.jpg"
+                    alt=""
+                    style="width: 45px; height: 45px"
+                    class="rounded-circle"
+                    />
             </div>
         </td>
         <td>
-            <p class="fw-normal mb-1">Software engineer</p>
-            <p class="text-muted mb-0">IT department</p>
+            <p class="text-muted mb-0">Carmen</p>
         </td>
         <td>
-            <span class="badge badge-success rounded-pill d-inline">Active</span>
+        <p class="text-muted mb-0">Castillo</p>
         </td>
-        <td>Senior</td>
-        <td>
-            <button type="button" class="btn btn-link btn-sm btn-rounded">
-            Edit
-            </button>
-        </td>
+        <td><p>Sistemas Operativos</p></td>
         </tr>
-        <tr>
         <td>
             <div class="d-flex align-items-center">
-            <img
-                src="https://mdbootstrap.com/img/new/avatars/6.jpg"
-                class="rounded-circle"
-                alt=""
-                style="width: 45px; height: 45px"
-                />
-            <div class="ms-3">
-                <p class="fw-bold mb-1">Alex Ray</p>
-                <p class="text-muted mb-0">alex.ray@gmail.com</p>
-            </div>
+                <img
+                    src="https://mdbootstrap.com/img/new/avatars/11.jpg"
+                    alt=""
+                    style="width: 45px; height: 45px"
+                    class="rounded-circle"
+                    />
             </div>
         </td>
         <td>
-            <p class="fw-normal mb-1">Consultant</p>
-            <p class="text-muted mb-0">Finance</p>
+            <p class="text-muted mb-0">Luna</p>
         </td>
         <td>
-            <span class="badge badge-primary rounded-pill d-inline"
-                >Onboarding</span
-            >
+        <p class="text-muted mb-0">Ramirez</p>
         </td>
-        <td>Junior</td>
-        <td>
-            <button
-                    type="button"
-                    class="btn btn-link btn-rounded btn-sm fw-bold"
-                    data-mdb-ripple-color="dark"
-                    >
-            Edit
-            </button>
-        </td>
+        <td><p>Redes de Computadores</p></td>
         </tr>
-        <tr>
         <td>
             <div class="d-flex align-items-center">
-            <img
-                src="https://mdbootstrap.com/img/new/avatars/7.jpg"
-                class="rounded-circle"
-                alt=""
-                style="width: 45px; height: 45px"
-                />
-            <div class="ms-3">
-                <p class="fw-bold mb-1">Kate Hunington</p>
-                <p class="text-muted mb-0">kate.hunington@gmail.com</p>
-            </div>
+                <img
+                    src="https://mdbootstrap.com/img/new/avatars/12.jpg"
+                    alt=""
+                    style="width: 45px; height: 45px"
+                    class="rounded-circle"
+                    />
             </div>
         </td>
         <td>
-            <p class="fw-normal mb-1">Designer</p>
-            <p class="text-muted mb-0">UI/UX</p>
+            <p class="text-muted mb-0">Evellyn</p>
         </td>
         <td>
-            <span class="badge badge-warning rounded-pill d-inline">Awaiting</span>
+        <p class="text-muted mb-0">Del rocio</p>
         </td>
-        <td>Senior</td>
+        <td><p>Inteligencia Artificial</p></td>
+        </tr>
         <td>
-            <button
-                    type="button"
-                    class="btn btn-link btn-rounded btn-sm fw-bold"
-                    data-mdb-ripple-color="dark"
-                    >
-            Edit
-            </button>
+            <div class="d-flex align-items-center">
+                <img
+                    src="https://mdbootstrap.com/img/new/avatars/13.jpg"
+                    alt=""
+                    style="width: 45px; height: 45px"
+                    class="rounded-circle"
+                    />
+            </div>
         </td>
+        <td>
+            <p class="text-muted mb-0">Tania</p>
+        </td>
+        <td>
+        <p class="text-muted mb-0">Coral</p>
+        </td>
+        <td><p>Robotica</p></td>
         </tr>
     </tbody>
     </table>
